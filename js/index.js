@@ -138,3 +138,4 @@ b.textContent = "hello";
 const theNav = document.querySelector("nav");
 theNav.append(b);
 theNav.prepend(a);
+//finished
